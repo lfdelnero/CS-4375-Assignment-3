@@ -1345,7 +1345,7 @@
 507906805934993408|Fri Sep 05 15:03:13 +0000 2014|Ebola crisis: WHO discusses experimental drugs http://www.cbc.ca/news/health/ebola-crisis-who-discusses-experimental-drugs-1.2756813?cmp=rss
 507906805167427584|Fri Sep 05 15:03:13 +0000 2014|Scientists urge government to fund basic research http://www.cbc.ca/news/technology/scientists-urge-government-to-fund-basic-research-1.2756038?cmp=rss
 507889528787329024|Fri Sep 05 13:54:34 +0000 2014|Hamilton school bans eggs, dairy in class for child with severe allergy http://www.cbc.ca/news/canada/hamilton/hamilton-school-bans-eggs-dairy-in-class-for-child-with-severe-allergy-1.2756015?cmp=rss
-507888692703551488|Fri Sep 05 13:51:15 +0000 2014|IN PHOTOS | Highlights from the first day of TIFF 2014 http://buff.ly/1pPWx6j via @CBCArts http://pbs.twimg.com/media/BwxiEwCIIAEHOsI.jpg
+507888692703551488|Fri Sep 05 13:51:15 +0000 2014|IN PHOTOS Highlights from the first day of TIFF 2014 http://buff.ly/1pPWx6j via @CBCArts http://pbs.twimg.com/media/BwxiEwCIIAEHOsI.jpg
 507878853000175616|Fri Sep 05 13:12:09 +0000 2014|Vancouver School Board pays $1.7M over student's heart attack http://www.cbc.ca/news/canada/british-columbia/vancouver-school-board-pays-1-7m-over-student-s-heart-attack-1.2756057?cmp=rss
 507818724154294272|Fri Sep 05 09:13:13 +0000 2014|HPV vaccine: Why boys are less likely to get it http://www.cbc.ca/news/health/hpv-vaccine-why-boys-are-less-likely-to-get-it-1.2756037?cmp=rss
 507818723344789504|Fri Sep 05 09:13:13 +0000 2014|Why Canada must approach Ebola outbreak like a natural disaster http://www.cbc.ca/news/canada/why-canada-must-approach-ebola-outbreak-like-a-natural-disaster-1.2754828?cmp=rss
@@ -1427,7 +1427,7 @@
 504626401442398209|Wed Aug 27 13:48:04 +0000 2014|WHO scientist infected with Ebola in Sierra Leone moved to Germany as Canadian colleagues pulled http://www.cbc.ca/news/health/ebola-infected-who-scientist-in-sierra-leone-goes-to-germany-canadians-pulled-1.2748090?cmp=rss
 504561937217110016|Wed Aug 27 09:31:54 +0000 2014|Slackers rejoice! Practice may not make perfect http://www.cbc.ca/news/world/the-10-000-hour-rule-revisited-why-practice-may-not-make-perfect-1.2747241?cmp=rss
 504455025452916736|Wed Aug 27 02:27:05 +0000 2014|Attention ANDROID users: We have a brand new CBC News app for you! Try it now and be amazed: https://play.google.com/store/apps/details?id=ca.cbc.mobile.android.cbcnewsandroidwebview&hl=en http://pbs.twimg.com/media/BwAvLDdIIAAqaAh.jpg
-504410996006748161|Tue Aug 26 23:32:07 +0000 2014|UPDATED | 3rd U.S. hostage held by ISIS is a 26-year-old aid worker http://buff.ly/1pepGYA http://pbs.twimg.com/media/BwAHINHIQAAKfQj.jpg
+504410996006748161|Tue Aug 26 23:32:07 +0000 2014|UPDATED 3rd U.S. hostage held by ISIS is a 26-year-old aid worker http://buff.ly/1pepGYA http://pbs.twimg.com/media/BwAHINHIQAAKfQj.jpg
 504370871666896896|Tue Aug 26 20:52:41 +0000 2014|Blood pressure self-medication better than doctors in study http://www.cbc.ca/news/health/blood-pressure-self-medication-better-than-doctors-in-study-1.2747569?cmp=rss
 504269077351657473|Tue Aug 26 14:08:11 +0000 2014|Ebola outbreak in West Africa has 'upper hand,' say U.S. health official warns http://www.cbc.ca/news/world/ebola-outbreak-in-west-africa-has-upper-hand-say-u-s-health-official-warns-1.2746945?cmp=rss
 504269076114329601|Tue Aug 26 14:08:11 +0000 2014|E-cigarettes should have stiff regulatory curbs, WHO urges http://www.cbc.ca/news/health/e-cigarettes-should-have-stiff-regulatory-curbs-who-urges-1.2747011?cmp=rss
@@ -1483,7 +1483,7 @@
 502094474999103488|Wed Aug 20 14:07:05 +0000 2014|Peanut and almond butters recalled over salmonella risk http://www.cbc.ca/news/canada/nova-scotia/maranatha-trader-joe-s-nut-butters-recalled-over-salmonella-risk-1.2741425?cmp=rss
 502089157716742144|Wed Aug 20 13:45:58 +0000 2014|RT @NightShiftMD: Is the CMA moving towards supporting assisted suicide?  Calling it a conscience issue is a start. http://bit.ly/1uW9oFK
 502036636390019072|Wed Aug 20 10:17:16 +0000 2014|Ebola crisis: Liberian security forces seal slum http://www.cbc.ca/news/health/ebola-crisis-liberian-security-forces-seal-slum-1.2741407?cmp=rss
-501864962059681792|Tue Aug 19 22:55:05 +0000 2014|ANALYSIS | Africans understandably wary about promised Ebola cures http://buff.ly/1pYhMjT http://buff.ly/1pYhJo1
+501864962059681792|Tue Aug 19 22:55:05 +0000 2014|ANALYSIS Africans understandably wary about promised Ebola cures http://buff.ly/1pYhMjT http://buff.ly/1pYhJo1
 501785417453432832|Tue Aug 19 17:39:00 +0000 2014|Ebola outbreak: Africa wary about promised cures http://buff.ly/1yW4Htn with A Thompson, @UofTPharmacy; J Lavery, @StMikesHospital &amp; @haw95
 501783985622482944|Tue Aug 19 17:33:19 +0000 2014|Drug used for dementia symptoms may carry kidney risks http://www.cbc.ca/news/health/drug-used-for-dementia-symptoms-may-carry-kidney-risks-1.2740720?cmp=rss
 501692864481357824|Tue Aug 19 11:31:14 +0000 2014|Ebola death toll reaches 1,229 http://www.cbc.ca/news/health/ebola-death-toll-reaches-1-229-1.2740304?cmp=rss
@@ -1707,7 +1707,7 @@
 486859572229832704|Wed Jul 09 13:09:02 +0000 2014|Teens texting while driving at an alarming rate http://www.cbc.ca/news/canada/toronto/texting-while-driving-common-among-ontario-teens-study-1.2700373?cmp=rss
 486859451316441088|Wed Jul 09 13:08:33 +0000 2014|How tiny Vermont is handling a huge heroin crisis http://www.cbc.ca/news/world/how-vermont-is-tackling-an-opioid-and-heroin-addiction-crisis-1.2700083?cmp=rss
 486604554533097472|Tue Jul 08 20:15:41 +0000 2014|RT @PDakinHealth: Over-hyped #Alzheimers blood test really only useful in research setting. http://www.bbc.com/news/health-28198510 A case of hype over true…
-486604101107462144|Tue Jul 08 20:13:53 +0000 2014|Canada’s nursing workforce continues to grow | CIHI http://bit.ly/U1SIwI
+486604101107462144|Tue Jul 08 20:13:53 +0000 2014|Canada’s nursing workforce continues to grow CIHI http://bit.ly/U1SIwI
 486579446342631424|Tue Jul 08 18:35:54 +0000 2014|Smallpox vials turn up in U.S. storage room unexpectedly http://www.cbc.ca/news/health/smallpox-vials-turn-up-in-u-s-storage-room-unexpectedly-1.2700164?cmp=rss
 486543538637660161|Tue Jul 08 16:13:13 +0000 2014|Hospital elevator buttons show more germs than toilet stall surfaces http://www.cbc.ca/news/health/hospital-elevator-buttons-show-more-germs-than-toilet-stall-surfaces-1.2699911?cmp=rss
 486543536213356544|Tue Jul 08 16:13:13 +0000 2014|Ebola virus spreads to 50 more in West Africa in a week http://www.cbc.ca/news/health/ebola-virus-spreads-to-50-more-in-west-africa-in-a-week-1.2699771?cmp=rss
@@ -2696,7 +2696,7 @@
 412688328886992896|Mon Dec 16 20:58:59 +0000 2013|Severed hand attached to ankle http://bit.ly/1kPKgaj
 412605923367333888|Mon Dec 16 15:31:32 +0000 2013|Antibacterial soap could pose health risks, FDA says http://bit.ly/1fylwmH
 412591977062887424|Mon Dec 16 14:36:07 +0000 2013|Retiring Halifax doctor struggles to sell family practice http://bit.ly/1fy9OZh
-412519765014364160|Mon Dec 16 09:49:10 +0000 2013|Dr. C | Want to go out sometime? By the way, I have cancer http://bit.ly/1dFuKM3
+412519765014364160|Mon Dec 16 09:49:10 +0000 2013|Dr. C Want to go out sometime? By the way, I have cancer http://bit.ly/1dFuKM3
 411614974721531904|Fri Dec 13 21:53:52 +0000 2013|Laughter's 8 benefits and 6 risks http://bit.ly/1kH8bsy
 411614973865885697|Fri Dec 13 21:53:51 +0000 2013|Shovel handle key to painless snow removal: researcher http://bit.ly/1kH8d3G
 411587161838731264|Fri Dec 13 20:03:20 +0000 2013|MDs say James Bond an impotent alcoholic unfit for 'defusing a nuclear bomb' http://bit.ly/1dxFGeG
@@ -2725,7 +2725,7 @@
 410059648394227712|Mon Dec 09 14:53:33 +0000 2013|Ontario mom urges schools to let asthmatic kids carry puffers http://bit.ly/J3JLOD
 410047072499273728|Mon Dec 09 14:03:35 +0000 2013|Medical mistake registry coming in Nova Scotia http://bit.ly/1ks49El
 410022847948419074|Mon Dec 09 12:27:19 +0000 2013|Mother with dementia 'warehoused,' daughter says http://bit.ly/1jCW7L6
-410008752096432128|Mon Dec 09 11:31:18 +0000 2013|Dr. C | I'm cheating on my cancer doctor http://bit.ly/1dgt5fH
+410008752096432128|Mon Dec 09 11:31:18 +0000 2013|Dr. C I'm cheating on my cancer doctor http://bit.ly/1dgt5fH
 409021912149291008|Fri Dec 06 18:09:57 +0000 2013|'Vanessa's Law' would let Ottawa pull dangerous drugs http://bit.ly/1kjNwKO
 409008422609121281|Fri Dec 06 17:16:21 +0000 2013|Sports, teens and booze go together, Mac study warns http://bit.ly/1d5vUA5
 408995760034693121|Fri Dec 06 16:26:02 +0000 2013|Extra vitamin D to prevent disease doubted in review http://bit.ly/1jukjPI
@@ -2997,7 +2997,7 @@
 387929740222296064|Wed Oct 09 13:17:12 +0000 2013|Burger recall expands nationally over E. coli concerns http://bit.ly/1cuN1OM
 387808855834382336|Wed Oct 09 05:16:51 +0000 2013|Tough anti-smoking regulations approved by EU lawmakers http://bit.ly/1ctGvIn
 387718148121567232|Tue Oct 08 23:16:24 +0000 2013|Zamboni MS vein theory debunked by study http://bit.ly/19gnwxF
-387685696367894528|Tue Oct 08 21:07:27 +0000 2013|Bryan Harris | Move more, live longer http://bit.ly/19ekAS7
+387685696367894528|Tue Oct 08 21:07:27 +0000 2013|Bryan Harris Move more, live longer http://bit.ly/19ekAS7
 387624661183238144|Tue Oct 08 17:04:55 +0000 2013|Malaria vaccine closer to drug licence application http://bit.ly/1b7YNuP
 387624660633792512|Tue Oct 08 17:04:55 +0000 2013|School bus for special needs students raises concerns http://bit.ly/1bUV5Wl
 387439687905705984|Tue Oct 08 04:49:54 +0000 2013|Weight-loss apps 'missing' key strategies http://bit.ly/1bSZQzJ
